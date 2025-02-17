@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Adhil!</h1>
 <p align="center">
-  <em>Web Developer | JavaScript Enthusiast | Open Source Contributor</em>
+  <em>Fullstack Developer | JavaScript Enthusiast | Open Source Contributor</em>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 - 🔥 Exploring **MERN Stack** & modern web technologies  
 - 🎯 Goal: **Contribute to Open Source & Build Scalable Projects**
 - 🌱 Currently learning **DSA, Graphs & Advanced JavaScript**
-- 📬 Connect with me on **[LinkedIn](YOUR_LINKEDIN_URL)**  
+- 📬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/adhil-p-a6a836311/)**  
 
 ---
 
@@ -45,13 +45,13 @@
 
 ### 📫 **Let's Connect!**
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/adhil-p-a6a836311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://x.com/adhi23996" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:adhi23996@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
