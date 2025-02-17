@@ -1,61 +1,80 @@
-<h1 align="center">👋 Hello, I'm Adhil!</h1>
+<h1 align="center">Hey there, I'm Adhil! 👋</h1>
+
 <p align="center">
-  <em>Fullstack Developer | JavaScript Enthusiast | Open Source Contributor</em>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300">
+</p>
+
+<h3 align="center">🚀 Self-Learner | 💡 Tech Enthusiast | 📚 Lifelong Learner</h3>
+
+---
+
+## 🌟 **About Me**
+- 🔭 Currently working on **ShutterCart**, an e-commerce platform for cameras & accessories.  
+- 🌱 Passionate about **Web Development, JavaScript, and Data Structures & Algorithms (DSA)**.  
+- 🚀 Self-taught developer, always **exploring new technologies** and improving my skills.  
+- 💡 I believe in **"learning by doing"** and applying concepts in real projects.  
+- 🎯 My goal is to become a **full-stack software developer**.  
+- 💬 Ask me about **JavaScript, Node.js, MongoDB, and Web Performance**.  
+- ⚡ Fun fact: **I debug with coffee ☕ & play chess ♟️**.  
+
+---
+
+## 🛠️ **Tech Stack**
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb">
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js">
+  <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git">
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 Passionate **Full-Stack Developer**
-- 🔥 Exploring **MERN Stack** & modern web technologies  
-- 🎯 Goal: **Contribute to Open Source & Build Scalable Projects**
-- 🌱 Currently learning **DSA, Graphs & Advanced JavaScript**
-- 📬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/adhil-p-a6a836311/)**  
-
----
-
-### 🛠 **Tech Stack**
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-
-#### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-
-#### **Database**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-
-#### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
----
-
-### 📊 **GitHub Stats**
+## 🚀 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?adhilX&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 ---
 
-### 📫 **Let's Connect!**
-<p align="center">
-  <a href="https://www.linkedin.com/in/adhil-p-a6a836311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://x.com/adhi23996" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter">
-  </a>
-  <a href="mailto:adhi23996@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+## 🎯 **My Developer Journey**
+> "I started my programming journey as a curious learner, exploring HTML and CSS. Later, I got deeper into JavaScript, backend development, and databases like MongoDB. Through self-learning and building real-world projects, I continue to sharpen my skills every day."  
+
+**💡 Lessons I’ve learned:**  
+✅ Learning by **building projects** is the best way to master new skills.  
+✅ **Consistency beats motivation** when it comes to improving in tech.  
+✅ **Asking for help** and collaborating makes growth faster.  
 
 ---
 
-🔥 **"Keep Coding, Keep Learning, Keep Growing!"** 🔥  
+## 🏆 **My Achievements**
+🎯 Built a full-stack e-commerce platform **ShutterCart**.  
+🎯 Completed **MongoDB and JavaScript** reviews successfully.  
+🎯 Solved **multiple DSA problems** on coding platforms.  
+🎯 Participated in **collaborative projects** with fellow developers.  
+
+---
+
+## 🔥 **GitHub Activity Graph**
+![Adhil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adhilX&theme=tokyo-night)
+
+---
+
+## 🎮 **Fun Facts About Me**
+- 🎯 **Favorite Language:** JavaScript  
+- 🔥 **Hobbies:** problem-solving, learning new frameworks ,Photography and Video editing 
+- 📚 **Currently Reading:** Clean Code by Robert C. Martin  
+- 🍕 **Love for Food:** Pizza, obviously! 🍕  
+- 🏆 **Coding Motto:** "Make it work, make it right, make it fast!"  
+
+---
+
+## 🌎 **Let's Connect!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/adhil-p-a6a836311/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:adhi23996@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/adhilX"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
